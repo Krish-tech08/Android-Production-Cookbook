@@ -271,6 +271,6 @@ It helps other developers find this resource.
 
 <br/>
 
-**Made with care by [Vidagdhan Technologies](https://github.com/vidagdhan)**
+**Made with care by [Krish Kumar Chaurasia](https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310/)**
 
 </div>
